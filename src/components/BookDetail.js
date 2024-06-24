@@ -22,3 +22,4 @@ const BookDetail = ({ book, onClose }) => {
 };
 
 export default BookDetail;
+//
